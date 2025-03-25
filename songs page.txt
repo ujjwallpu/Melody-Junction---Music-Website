@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bollywood Songs</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Bollywood Music Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="songs.html">Songs</a></li>
+                <li><a href="playlist.html">Playlist</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="songs">
+        <h2>  Songs List</h2>
+        <ul>
+            <li>Lungi Dance,Chennai Express</li>
+            <li>Channa Mereya,Ae Dil Hai Mushkil</li>
+            <li>Pehli Nazar Mein,Race</li>
+            <li>Kaun Tujhe,         M.S. Dhoni</li>
+            <li>Badtameez Dil,      Yeh Jawaani Hai Deewani</li>
+            <li>Zinda,      Bhaag Milkha Bhaag</li>
+            <li>Hawayein,       Jab Harry Met Sejal</li>
+            <li>Janam Janam,        Dilwale</li>
+            <li>Raabta,     Agent Vinod</li>
+            <li>Suraj Hua Maddham,      Kabhi Khushi Kabhie Gham</li>
+            <li>Ae Dil Hai Mushkil,     Ae Dil Hai Mushkil</li>
+            <li>Kal Ho Na Ho,       Kal Ho Na Ho</li>
+            <li>Dangal Title Track,     Dangal</li>
+            <li>Gerua,      Dilwale</li>
+            <li>Abhi Mujh Mein Kahin,       Agneepath</li>
+            <li>Tum Hi Ho,      Aashiqui 2</li>
+            <li>Aankh Maarey,       Simmba</li>
+            <li>Lag Ja Gale,        Woh Kaun Thi?</li>
+            <li>Sun Raha Hai,       Aashiqui 2</li>
+            <li>Mast Magan,     2 States</li>
+            <li>Tera Ban Jaunga, Kabir Singh</li>
+        </ul>
+    </section>
+
+</body>
+</html>

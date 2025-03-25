@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Playlist</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <h1> Singer Playlist</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="songs.html">Songs</a></li>
+                <li><a href="playlist.html">Playlist</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="playlist">
+
+        <details>
+            <summary>
+                <img src="images/lata_mangeshkar.png" alt="Lata Mangeshkar" width="150">
+            </summary>
+            <h2> Lata Mangeshkar</h2>
+            <ul>
+                <li>Lag Ja Gale</li>
+                <li>Aye Mere Watan Ke Logon</li>
+                <li>Piya Tose Naina Lage Re</li>
+                <li>Kabhi Kabhie Mere Dil Mein</li>
+                <li>Hothon Mein Aisi Baat</li>
+            </ul>
+        </details>
+
+        <details>
+            <summary>
+                <img src="images/sonu_nigam.png" alt="Sonu Nigam" width="150">
+            </summary>
+            <h2> Sonu Nigam</h2>
+            <ul>
+                <li>Abhi Mujh Mein Kahin</li>
+                <li>Sandese Aate Hain</li>
+                <li>Suraj Hua Maddham</li>
+                <li>Kal Ho Naa Ho</li>
+                <li>Main Agar Kahoon</li>
+            </ul>
+        </details>
+
+        <details>
+            <summary>
+                <img src="images/arijit_singh.png" alt="Arijit Singh" width="150">
+            </summary>
+            <h2> Arijit Singh</h2>
+            <ul>
+                <li>Tum Hi Ho</li>
+                <li>Channa Mereya</li>
+                <li>Raabta</li>
+                <li>Hawayein</li>
+                <li>Ae Dil Hai Mushkil</li>
+            </ul>
+        </details>
+
+    </section>
+
+</body>
+</html>
